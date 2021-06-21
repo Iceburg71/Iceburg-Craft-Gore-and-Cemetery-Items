@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="IceBurg_Craft_Gore_Cemetery_Items" />
+		<Description value="Adds recipes to be able to build the Gore Blocks, dead bodies, body bags, and cemetery Items" />
+		<Author value="IceBurg" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>

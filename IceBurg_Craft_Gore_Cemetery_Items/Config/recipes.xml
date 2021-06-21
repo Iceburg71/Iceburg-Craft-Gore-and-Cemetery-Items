@@ -1,0 +1,30 @@
+<IceBurg>
+	<append xpath="/recipes">
+
+<!-- THE DEAD... -->
+	<!-- Body Bags -->
+		<!-- BodyBagVariantHelper -->
+		<recipe name="IceburgBodyBagVariantHelper" count="1" craft_time="20" craft_area="workbench">
+			<ingredient name="resourceScrapPolymers" count="5"/>
+			<ingredient name="IceBurgGoreBlockVariantHelper" count="2"/>
+		</recipe>
+	<!-- Gore Corpses -->
+		<!-- IceburgGoreBlockVariantHelper-->
+		<recipe name="IceBurgGoreBlockVariantHelper" count="1" craft_time="20" craft_area="workbench">
+			<ingredient name="resourceBone" count="10"/>
+			<ingredient name="resourceAnimalFat" count="5"/>
+			<ingredient name="foodRottingFlesh" count="5"/>
+		</recipe>
+	<!-- GraveStones -->
+		<!-- IceBurgGraveStoneBlockVariantHelper-->
+		<recipe name="IceBurgGraveStoneBlockVariantHelper" count="1" craft_time="20" craft_area="workbench">
+			<ingredient name="resourceRockSmall" count="15"/>
+		</recipe>
+	<!-- Coffins -->
+		<!-- CoffinBlockVariantHelper-->
+		<recipe name="IceBurgCoffinVariantHelper" count="1" craft_time="20" craft_area="workbench">
+			<ingredient name="resourceWood" count="10"/>
+		</recipe>
+	
+	</append>
+</IceBurg>

@@ -1,0 +1,9 @@
+Key,Source,Context,Changes,English
+IceburgBodyBagVariantHelper,items,Item,New,Body Bags
+IceburgBodyBagVariantHelperDesc,items,Item,New,"Craft the different body bags"
+IceBurgGoreBlockVariantHelper,items,Item,New,Dead Bodiesbody
+IceBurgGoreBlockVariantHelperDesc,items,Item,New,"Craft the different dead bodies"
+IceBurgGraveStoneBlockVariantHelper,items,Item,New,Gravestones
+IceBurgGraveStoneBlockVariantHelperDesc,items,Item,New,"Craft the different gravestones"
+IceBurgCoffinVariantHelper,items,Item,New,Coffins
+IceBurgCoffinVariantHelperDesc,items,Item,New,"Craft the different coffins"
